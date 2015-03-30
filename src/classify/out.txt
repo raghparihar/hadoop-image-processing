@@ -1,0 +1,6 @@
+1427076055	['n04389033 tank, army tank, armored combat vehicle, armoured combat vehicle']
+1427076055	['n02749479 assault rifle, assault gun']
+1427076055	['n02088364 beagle']
+1427076055	['n04254680 soccer ball']
+1427076055	['n04141327 scabbard']
+1427076055	['n03983396 pop bottle, soda bottle']
